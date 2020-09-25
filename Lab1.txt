@@ -1,6 +1,6 @@
-Lab 1:
-Initial save for Lab1
 
+Lab 1:
+Initial save for Lab1 - new update.
 
 This is the first branch update!! 
 --Commit--
