@@ -1,0 +1,88 @@
+/*
+	* @file: 	style.css
+	*
+	* @author: 	Raghav V. Sampangi (raghav@cs.dal.ca)
+	*
+	* @desc:	This file styles the list in its current form.
+	*
+	* @notes:	As a student working on A4 and A5 in CSCI 2170, you are allowed to edit this file.
+	* 			When you edit, include block comments to summarize changes.
+	* 			Clearly highlight the styles and how they impact various sections of the website.
+*/
+
+
+
+header {
+    /**
+    Removed the colour and top of the header
+     */
+    vertical-align: middle;
+    padding: 0 10px;
+}
+
+.main {
+    min-height: 550px;
+    width: 1100px;
+    margin: auto;
+}
+
+form input {
+    height: 50px;
+    border-radius: 5px;
+    min-width: 200px;
+    display: block;
+    margin: 10px 0px;
+}
+
+#listOutput {
+    padding-top: 75px;
+}
+
+#listInput {
+    padding-top: 35px;
+}
+
+#userTable {
+    border-collapse: collapse;
+    width: 85%;
+}
+
+tr:nth-child(even) {
+    background-color: lightblue;
+    color: white;
+}
+
+td, th {
+    border: 1px solid lightblue;
+    text-align: left;
+    padding: 8px;
+    min-width: 65px;
+}
+
+button {
+    display: block;
+    border-radius: 5px;
+    min-width: 200px;
+}
+
+.complete {
+    text-decoration: line-through;
+    font-style: italic;
+}
+
+#main-content {
+    padding-top: 100px;
+}
+
+footer {
+    /**
+    Changed the colours of the footer
+     */
+    background-color: lightblue;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 0 10px;
+}
+
