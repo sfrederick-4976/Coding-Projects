@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="358740d4-f129-441f-9270-90902de57c07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csci3172_fttb" beforeDir="false" afterPath="$PROJECT_DIR$/csci3172_fttb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/.firebase/hosting.YnVpbGQ.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/database.rules.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/firestore.indexes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/firestore.rules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/AdminDash/AdminDash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/AdminDash/Chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/AdminDash/Deposits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/AdminDash/Orders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/AdminDash/Title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/AdminDash/adminTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/AdminDash/listItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Cart/cart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Cart/cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/FirebaseSetup/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/FirebaseSetup/fireFunctionality.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/FooterComponent/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/FooterComponent/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HeaderComponent/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HeaderComponent/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HomeBody/HomeBody.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HomeBody/OtherServices.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HomeBody/OurPassion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HomeBody/OurProcess.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HomeBody/OurShop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HomeBody/OurStory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/HomeBody/homeBody.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/LoginComponent/LoginForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/LoginComponent/LoginPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Logout/LogoutButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Payment/paymentPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Payment/paymentPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Profile/ProfileButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Session/authentication.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Session/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/Session/withAuthorization.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/ShopComponent/ShopProduct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/ShopComponent/productDetail.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/ShopComponent/productDetail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/ShopComponent/responsiveDrawer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/ShopComponent/shopPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/ShopComponent/shopPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/SignUpComponent/SignUp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/SignUpComponent/SignUpForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/howItWorks/howItWorks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/howItWorks/howItWorks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/whatWeDo/newsletterSignup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/whatWeDo/whatWeDo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/whatWeDo/whatWeDo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/whoWeAreComponent/CarouselComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/whoWeAreComponent/WhoWeAre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/components/whoWeAreComponent/whoWeAre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/constraints/roles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/constraints/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/firebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ImageCarousel/Parasailing.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ImageCarousel/beach.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ImageCarousel/buddy.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ImageCarousel/mountains.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ImageCarousel/outterBus.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ImageCarousel/overlook.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ImageCarousel/thebus.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ImageCarousel/topViews.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/SignUpImage.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/backdoor.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/complete.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/gallery.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/gallery1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/insatllation.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/insatllation1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/layoutCustom.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/layoutCustom1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/loginImage.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/logo.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ourPassion.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/ourStoryJPG.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/plumbing.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/schoolbus.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/schoolbus1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/shopProduct.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/sprinter.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/sprinter1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/step1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/step2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/step3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/transform.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/transit.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/transit1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/view.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/weDesignweBuild.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/wedesignyoubuild.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/whoWeAreHeader.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/woodInterior.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/img/youDesignWeBuild.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/following-the-travel-bug/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lQaMYuMiiqi00znKCiubeqco7F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/csci3172_fttb" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="358740d4-f129-441f-9270-90902de57c07" name="Default Changelist" comment="" />
+      <created>1607531722007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607531722007</updated>
+      <workItem from="1607531724560" duration="138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607531859744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1607531859744" />
+  </component>
+</project>

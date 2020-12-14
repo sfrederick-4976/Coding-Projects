@@ -1,0 +1,17 @@
+.shopLayout {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: 320px;
+}
+
+.heading {
+    text-align: left;
+    margin-left: 6%;
+    font-size: 1.8em;
+}
+
+.products {
+    display: flex;
+    flex-flow: row wrap;
+}

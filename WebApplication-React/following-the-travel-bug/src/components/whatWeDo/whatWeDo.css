@@ -1,0 +1,159 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.header1 {
+    font-size: 1.5em;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-decoration: underline;
+    text-decoration-color: #90A3A7;
+    text-decoration-width: 2px;
+    font-weight: normal;
+    text-align: left;
+    margin-left: 2.5em;
+}
+.para {
+    font-size: 0.7em;
+}
+
+.whatWeDo {
+    width: 80%;
+    align-self: center;
+    margin-bottom: 50px;
+}
+
+.ourWork {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin-bottom: 50px;
+}
+
+.wwdButtons{
+    width: 80%;
+    display: flex;
+    flex-flow: row wrap;
+    align-self: center;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+
+.customBuilds {
+    width: 22em;
+    height: 22em;
+    border-radius: 10px;
+    margin: 10px;
+    background-image: url("../../img/insatllation1.jpg");
+    background-size: cover;
+}
+
+.customBuilds:hover {
+    background-image: url("../../img/insatllation.JPG");
+    background-size: cover;
+}
+
+.customBLabel {
+    background-color: #EFEFEF;
+    height: 15%;
+}
+
+.mercedesSprinter {
+    width: 22em;
+    height: 22em;
+    border-radius: 10px;
+    justify-content: center;
+    margin: 10px;
+    background-image: url("../../img/sprinter1.jpg");
+    background-size: cover;
+}
+
+.mercedesSprinter:hover {
+    background-image: url("../../img/sprinter.JPG");
+    background-size: cover;
+}
+
+.mercedesLabel {
+    background-color: #EFEFEF;
+    height: 15%;
+}
+
+.customLayouts {
+    width: 22em;
+    height: 22em;
+    border-radius: 10px;
+    margin: 10px;
+    background-image: url("../../img/layoutCustom1.jpg");
+    background-size: cover;
+}
+
+.customLayouts:hover {
+    background-image: url("../../img/layoutCustom.JPG");
+    background-size: cover;
+}
+
+.customLLabel {
+    background-color: #EFEFEF;
+    height: 15%;
+}
+
+.fordTransits {
+    width: 22em;
+    height: 22em;
+    border-radius: 10px;
+    margin: 10px;
+    background-image: url("../../img/transit1.jpg");
+    background-size: cover;
+}
+
+.fordTransits:hover {
+    background-image: url("../../img/transit.JPG");
+    background-size: cover;
+}
+
+.fordLabel {
+    background-color: #EFEFEF;
+    height: 15%;
+}
+.gallery {
+    width: 22em;
+    height: 22em;
+    border-radius: 10px;
+    margin: 10px;
+    background-image: url("../../img/gallery1.jpg");
+    background-size: cover;
+}
+
+.gallery:hover {
+    background-image: url("../../img/gallery.JPG");
+    background-size: cover;
+}
+
+.galleryLabel {
+    background-color: #EFEFEF;
+    height: 15%;
+}
+
+.schoolBuses {
+    width: 22em;
+    height: 22em;
+    border-radius: 10px;
+    margin: 10px;
+    background-image: url("../../img/schoolbus1.jpg");
+    background-size: cover;
+}
+
+.schoolBuses:hover {
+    background-image: url("../../img/schoolbus.JPG");
+    background-size: cover;
+}
+
+.busesLabel {
+    background-color: #EFEFEF;
+    height: 15%;
+}
+
+

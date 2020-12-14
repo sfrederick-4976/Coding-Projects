@@ -1,0 +1,22 @@
+h1 {
+    font-size: 2.5em;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-decoration: underline;
+    text-decoration-color: #90A3A7;
+    text-decoration-width: 2px;
+}
+
+h3, h2 {
+    color: #395159;
+}
+
+h2 {
+    font-weight: normal;
+    text-decoration: underline;
+    text-decoration-color: #90A3A7;
+}
+
+p {
+    color: #23303D;
+}
